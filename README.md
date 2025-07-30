@@ -2,6 +2,7 @@
 # 📊 Report Card Generator
 
 This C++ application stores student names and marks, calculates averages, assigns grades, and ranks students based on performance.
+It also offer the possibility for students to input the number of subjects they offer
 
 ## 💻 Features
 - Store names and marks in arrays
