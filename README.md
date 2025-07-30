@@ -20,3 +20,4 @@ This C++ application stores student names and marks, calculates averages, assign
    ```bash
    g++ main.cpp -o reportcard
    ./reportcard
+![screenshot](screenshot.png)
